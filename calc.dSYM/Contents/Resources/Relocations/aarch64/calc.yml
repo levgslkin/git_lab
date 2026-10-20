@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/levgalkin/git_lab/calc'
-relocations:     []
-...

@@ -1,0 +1,9 @@
+# Скомпилированные файлы
+*.o
+*.out
+calc
+*.dSYM/
+# Папка настроек VS Code
+.vscode/
+# macOS мусор
+.DS_Store
