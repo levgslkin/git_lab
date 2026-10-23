@@ -8,4 +8,8 @@ int main(void){
     printf("%d\n", a+b);
     printf("%d\n", a-b);
     printf("%d\n", a%b);
+    if (b != 0) {
+        printf("%d\n", a/b);
+    }
+    
 }
