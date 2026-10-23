@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void){
+    // ввод исходных данных
     int a;
     int b;
     scanf("%d", &a);
@@ -11,6 +12,7 @@ int main(void){
     if (b != 0) {
         printf("%d\n", a/b);
     }
+    return 0;
 }
 
 
